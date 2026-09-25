@@ -1,32 +1,12 @@
 <!-- Se você está lendo isto, já entendeu onde procurar. -->
 
-```bash
-$ whoami
-RaisaMatos
-
-$ cat sobre_mim.txt
-cat: sobre_mim.txt: Permission denied
-
-$ sudo cat sobre_mim.txt
-[sudo] password for visitante:
-Sorry, try again.
-
-$ cat .pista
-Nullum crimen sine log.
-```
-
-<details>
-<summary><code>$ ls -la</code></summary>
-<br>
-
-```text
-total 12
-drwx------  2 raisa raisa 4096 set 16 09:34 .
--rw-r--r--  1 raisa raisa   24 set 16 09:34 .pista
--r--------  1 root  root  1337 set 16 09:34 sobre_mim.txt
-```
-
-</details>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaisaMatos/RaisaMatos/main/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaisaMatos/RaisaMatos/main/header-light.svg" />
+    <img alt="RaisaMatos. Acesso restrito. Nullum crimen sine log." src="https://raw.githubusercontent.com/RaisaMatos/RaisaMatos/main/header-light.svg" width="100%" />
+  </picture>
+</p>
 
 <br>
 
